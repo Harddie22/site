@@ -1,0 +1,159 @@
+
+.text1{
+	text-align: center;
+	padding-top: 30px;
+}
+
+.header{
+	margin: 0 auto;
+	height: 150px;
+	max-width: 1170px;
+	background: linear-gradient(to bottom, rgba(179,220,237,1) 0%,rgba(41,184,229,1) 50%,rgba(188,224,238,1) 100%);
+	font-size: 60px;
+	font-weight: 900;
+	text-align: justify;
+}
+
+.container-form{
+	margin: 0 auto;
+}
+
+.nav{
+	display: flex;
+	max-height: 80px;
+	max-width: 1170px;
+	background: linear-gradient(to bottom, rgba(179,220,237,1) 0%,rgba(41,184,229,1) 50%,rgba(188,224,238,1) 100%);
+	margin: 0 auto;
+}
+.cont{
+	padding: 0 20px;
+}
+
+.menu{
+	padding: 0 20px;
+	color: wait;
+}
+
+.model{
+	padding: 0 20px;
+}
+
+.servis{
+	padding: 0 20px;
+	color: wait;
+}
+.container{
+	max-width: 1170px;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+.row{
+	display: flex;
+	justify-content: space-between;
+}
+
+.main{
+	width: 885px;
+	height: auto;
+	background: radial-gradient(ellipse at center, rgba(225,255,255,1) 0%,rgba(225,255,255,1) 12%,rgba(225,255,255,1) 23%,rgba(225,255,255,1) 37%,rgba(200,238,251,1) 54%,rgba(190,228,248,1) 75%,rgba(177,216,245,1) 100%);
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.card1{
+	background-color: none;
+	width:270px;
+	height: 220;
+	margin: 10px;
+}
+
+.card__content{
+	padding: 15px 15px 20px;
+	float: left;
+}
+
+.card__title{
+	margin: 0;
+	margin-bottom: 10px;
+	font-size: 18;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 1.16;
+	color: black;
+}
+
+.card__term{
+	font-size: 14px;
+	margin-bottom: 10px;
+	line-height: 1.4;
+	color: black;
+}
+
+.card__metro{
+	font-size: 14px;
+	margin-bottom: 10px;
+	line-height: 1.4;
+	color: black;
+}
+
+.card__addres{
+	font-size: 14px;
+	margin-bottom: 10px;
+	line-height: 1.4;
+	color: black;
+}
+
+.fot{
+	font-size: 18px;
+	font-weight: 700;
+	margin: 120px 25px;
+}
+
+.sidbar{
+	width: 275px;
+	height: 665px;
+	background: linear-gradient(to bottom, rgba(179,220,237,1) 0%,rgba(41,184,229,1) 50%,rgba(188,224,238,1) 100%);
+}
+
+.login{
+	
+	margin: 20px 23px;
+}
+.pass{
+		margin: 0px 3px;
+	
+}
+
+.reset{
+	margin: 0px 3px;
+	
+}
+
+.submit{
+	margin: 0px 3px;
+	
+}
+.footer{
+	height: 150px;
+	max-width: 1170px;
+	background: linear-gradient(to bottom, rgba(179,220,237,1) 0%,rgba(41,184,229,1) 50%,rgba(188,224,238,1) 100%);
+	margin: 0 auto;
+}
+.footer1{
+	height:50px;
+	max-width: 370px;
+	background: gray;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.footernv{
+	color: white;
+	text-align: center;
+}
+.footernz{
+	text-align: center;
+	font-size: 25px;
+	color: gray;
+}

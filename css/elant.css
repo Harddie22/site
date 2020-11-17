@@ -1,0 +1,72 @@
+
+
+.zaglav{
+	margin: 0 auto;
+	height: 450px;
+	max-width: 1170px;
+	background: linear-gradient(to bottom, rgba(254,255,232,1) 0%,rgba(214,219,191,1) 100%);
+}
+
+.zaglav3{
+	margin-top: -20px;
+} 
+
+
+
+.zaglav2 {
+padding: 15px 0px 0px 25px;
+color: red;
+font-size: 20px;
+}
+
+.main{
+	max-width: 1170px;
+	max-height: auto;
+	margin: 10px auto;
+	display: flex;
+	flex-wrap: wrap;
+	
+	
+}
+
+.card1{
+	max-width: 360px;
+	height: auto;
+	margin: 10px auto;
+}
+.card__title{
+	
+	font-size: 28;
+	font-weight: 700;
+}
+
+.card__term{
+	
+	letter-spacing: 1px;
+}
+
+.card__content{
+	
+
+	padding-left: 10px;
+}
+.butf{
+	margin: 10px 500px;
+	font-weight: 700;
+	padding: 2px;
+}
+
+.cont22{
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.footerel{
+	height: 200px;
+	width: 1170px;
+	margin: 30px auto;
+	background: linear-gradient(to bottom, rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%);
+	padding-top: 5px;
+	
+}
